@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DraftKingsInterview/bin/Debug/netcoreapp3.1
+/DraftKingsInterview/obj
+/DraftKingsInterview.Domain/bin/Debug/netcoreapp3.1
+/DraftKingsInterview.Domain/obj
+/DraftKingsInterview.Domain.UnitTests/bin/Debug/netcoreapp3.1
+/DraftKingsInterview.Domain.UnitTests/obj
