@@ -2,9 +2,9 @@
 {
     public enum CustomerType
     {
-        FreeUser,
-        PremiumUser,
-        UltraPremiumUser,
-        PlatinumUser
+        FreeUser = 1,
+        PremiumUser = 2,
+        UltraPremiumUser = 3,
+        PlatinumUser = 4
     }
 }
